@@ -6918,3 +6918,69 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
   }
 }
 /*# sourceMappingURL=theme.css.map */
+
+/* NEW CSS */
+
+/* first section */
+.btn-read{
+  background-color: #283B6A;
+  color: white;
+  padding: 8px 16px 6px 16px;
+  font-size: 1.3rem;
+  font-weight: 800;
+}
+
+.sec1-heading{
+  font-weight: 700;
+  font-size: 2.5rem;
+
+}
+
+/* second section */
+.service-container{
+background-color: #002E5D;
+
+}
+
+.sec2-col1{
+  background-color: #2BC3A7;
+  color: white;
+  padding-left: 20px;
+  font-size: 1.2rem;
+}
+
+.sec2-div2head{
+  font-size: 1.2rem;
+  color: #2BC3A7;
+  border-bottom: 2px solid #2BC3A7;
+}
+
+/* Services Page */
+
+.service-1{
+  background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.3)),url('../images/austin-distel-rxpThOwuVgE-unsplash.jpg');
+  background-size: cover;
+}
+.services-title{
+padding-left: 3rem;
+font-size: 3rem;
+font-weight: 700;
+}
+
+.content-image{
+  float: right;
+}
+.service-2{
+  background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.3)),url('../images/charles-forerunner-3fPXt37X6UQ-unsplash.jpg');
+  background-size: cover;
+}
+
+.service-3{
+  background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.3)),url('../images/kelly-sikkema-xoU52jUVUXA-unsplash.jpg');
+  background-size: cover;
+}
+
+.service-4{
+  background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.3)),url('../images/mario-gogh-VBLHICVh-lI-unsplash.jpg');
+  background-size: cover;
+}
